@@ -1,0 +1,9 @@
+C:\Users\stwer1998\source\repos\FsspSolution\FsspLibrary\bin\Debug\netcoreapp3.1\FsspLibrary.deps.json
+C:\Users\stwer1998\source\repos\FsspSolution\FsspLibrary\bin\Debug\netcoreapp3.1\FsspLibrary.dll
+C:\Users\stwer1998\source\repos\FsspSolution\FsspLibrary\bin\Debug\netcoreapp3.1\FsspLibrary.pdb
+C:\Users\stwer1998\source\repos\FsspSolution\FsspLibrary\obj\Debug\netcoreapp3.1\FsspLibrary.csprojAssemblyReference.cache
+C:\Users\stwer1998\source\repos\FsspSolution\FsspLibrary\obj\Debug\netcoreapp3.1\FsspLibrary.AssemblyInfoInputs.cache
+C:\Users\stwer1998\source\repos\FsspSolution\FsspLibrary\obj\Debug\netcoreapp3.1\FsspLibrary.AssemblyInfo.cs
+C:\Users\stwer1998\source\repos\FsspSolution\FsspLibrary\obj\Debug\netcoreapp3.1\FsspLibrary.csproj.CoreCompileInputs.cache
+C:\Users\stwer1998\source\repos\FsspSolution\FsspLibrary\obj\Debug\netcoreapp3.1\FsspLibrary.dll
+C:\Users\stwer1998\source\repos\FsspSolution\FsspLibrary\obj\Debug\netcoreapp3.1\FsspLibrary.pdb
